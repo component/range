@@ -1,0 +1,12 @@
+{
+  "name": "range",
+  "repo": "component/range",
+  "description": "Return a range of integers",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}
