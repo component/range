@@ -3,10 +3,15 @@
   "repo": "component/range",
   "description": "Return a range of integers",
   "version": "0.0.1",
-  "keywords": ["range", "utility", "array"],
+  "keywords": [
+    "range",
+    "utility",
+    "array"
+  ],
   "dependencies": {},
   "development": {},
   "scripts": [
     "index.js"
-  ]
+  ],
+  "license": "MIT"
 }
