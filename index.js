@@ -3,7 +3,7 @@ module.exports = function(from, to, step, inclusive){
   var ret = [];
   if (!(typeof step == "number")) {
     inclusive = step;
-    step = 1;
+    to < from ? step = -1 : step = 1;
   };
   step = step || 1;
   var reverse = step < 0;
