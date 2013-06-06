@@ -2,7 +2,7 @@
   "name": "range",
   "repo": "component/range",
   "description": "Return a range of integers",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": [
     "range",
     "utility",
